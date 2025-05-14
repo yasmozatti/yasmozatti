@@ -20,7 +20,7 @@
     <img src="https://i.pinimg.com/474x/cc/53/c0/cc53c0e64be50dc924302d14e5e156e4.jpg" width="40" height="40" style="margin-right: 20px;">
   </a>
   <a href="https://vsco.co/yasmozatti" target="_blank">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi6Qh45YpKSo15oFmMlZWB7D_6Ydx0xOej0w&s" width="40" height="40">
+    <img src="https://i.pinimg.com/736x/30/5f/9c/305f9c144b4aba0993f7642b38fb65e4.jpg" width="40" height="40">
   </a>
 </p>
 </body>
